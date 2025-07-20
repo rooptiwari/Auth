@@ -1,0 +1,1 @@
+docker run -it ubuntu  - this will check image is exist , if not it download image from docket.HUB
